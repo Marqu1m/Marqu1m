@@ -10,6 +10,3 @@ Um pouco sobre mim:
 
 ##
 
-Linguagens que eu quero aprender:
-- HTML
-##
